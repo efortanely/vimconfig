@@ -1,1 +1,4 @@
 Rosemary's Vim config
+For new machines, set up plug-ins and color scheme:
+https://github.com/junegunn/vim-plug
+https://github.com/junegunn/seoul256.vim
